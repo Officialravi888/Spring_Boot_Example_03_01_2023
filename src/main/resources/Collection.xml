@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns:Emp="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="emp1" class="Org.Stream_Collection_Example.Emp">
+        <property name="name" value="Ravi"/>
+
+        <property name="phones">
+            <list>
+                <value>74566471</value>
+                <value>4654</value>
+                <value>451745</value> }
+            </list>
+        </property>
+    </bean>
+</beans>

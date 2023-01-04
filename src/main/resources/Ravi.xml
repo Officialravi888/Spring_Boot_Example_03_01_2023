@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<beans   xmlns="http://www.springframework.org/schema/beans"-->
+<!--         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--         xsi:schemaLocation="-->
+<!--        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">-->
+
+
+<!--&lt;!&ndash;    <bean id ="vechile" class="com.spring.Car"></bean>&ndash;&gt;-->
+<!--&lt;!&ndash;    <bean id ="e" class="com.spring.VechileNoise">&ndash;&gt;-->
+<!--&lt;!&ndash;        <constructor-arg ref="vechile"/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </bean>&ndash;&gt;-->
+<!--<bean class"Org.Spring.Student" name"student1">-->
+<!--    <properity></properity>-->
+<!--</bean>-->
+
+<!--</beans>-->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+ https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean class="Org.Spring.Student" id="S">
+        <property name="studentid">
+            <value>74843838</value>
+        </property>
+
+        <property name="studentName">
+            <value>RaviKant</value>
+        </property>
+
+        <property name="studentSAddreas">
+            <value>Gurugon</value>
+        </property>
+    
+</bean>
+
+    </beans>
+
+
+

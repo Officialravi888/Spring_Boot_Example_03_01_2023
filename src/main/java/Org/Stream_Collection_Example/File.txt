@@ -1,0 +1,18 @@
+Collection Types: |
+List
+<bean>
+<property name=""> |
+<list>
+RN CIAENTS |
+<value>1023</value>
+<value>12350</value> |
+
+RS Ly 2YAVER T |
+
+<null/>
+
+</list>
+</property>
+
+
+<bean>
