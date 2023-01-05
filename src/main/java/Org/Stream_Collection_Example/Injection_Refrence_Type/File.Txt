@@ -1,0 +1,9 @@
+Reference: - R
+Reference Inject : 3
+8
+POEET
+
+<property name=""> |
+<ref bean="p" >
+</property> |
+</bean>

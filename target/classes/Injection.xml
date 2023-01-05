@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans   xmlns="http://www.springframework.org/schema/beans"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<bean class="Org.Stream_Collection_Example.Injection_Refrence_Type.B" id="bref" >
+    <property name="y" value="90"/>
+</bean>
+
+    <bean class="Org.Stream_Collection_Example.Injection_Refrence_Type.A" id="aref" >
+        <property name="x" value="34"/>
+        <property name="ob">
+            <ref bean="bref"/>
+        </property>
+ </bean>
+</beans>
