@@ -11,7 +11,8 @@
 <!--    </bean>-->
     
     <bean class="Org.Spring.Student" id="A">
-        <property name="studentid"><value>67</value></property>
+        <property name="studentid"><value>6</value></property>
+        <property name="studentSAddreas"><value>60</value></property>
     </bean>
 
 
