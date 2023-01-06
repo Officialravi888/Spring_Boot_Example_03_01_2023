@@ -1,0 +1,3 @@
+
+https://www.geeksforgeeks.org/spring-resourceloaderaware-with-example/
+Hello

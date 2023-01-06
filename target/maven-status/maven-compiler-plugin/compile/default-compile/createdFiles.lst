@@ -2,6 +2,8 @@ Org/Employee/Soft.class
 Org/Spring_Boot_All_Program_With_Example/Cat.class
 Org/Spring_Boot_All_Program_With_Example/Dog.class
 Org/Phones/Colour.class
+Org/Stap/Emp.class
+Org/Stap/MainMethod.class
 Org/Stream_Collection_Example/Injection_Refrence_Type/B.class
 Org/Company/Timeing.class
 Org/Spring_Boot_All_Program_With_Example/Been_Animal.class
@@ -33,12 +35,16 @@ Org/Company/Namea.class
 Org/Company/CompanyDetels.class
 Org/Spring_Boot_All_Program_With_Example/ConfigAnimal.class
 Org/Employee/MyConfiguration.class
+Org/Config_Example/Exe/Student.class
+Org/Config_Example/Exe/MainMethod.class
 Org/Spring/Student.class
 Org/Bank/AllDetels.class
 Org/Spring_Boot_All_Program_With_Example/Animal_All.class
 Org/Bank/Bank.class
 Org/Employee/Manager.class
+Org/Config_Example/Exe/CollegeConfig.class
 Org/University/College.class
+Org/Config_Example/ComponentDemo.class
 Org/Stream_Collection_Example/Constructor_Injection/Person.class
 Org/Pro/Cat.class
 Org/Employee/AllEmployee.class
